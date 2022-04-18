@@ -8,7 +8,7 @@ picom &
 
 bash ~/.config/polybar/launch.sh &
 
-bspc monitor -d ter web dsc music code oth1 oth2 oth3 oth4 oth5
+bspc monitor -d ter web dsc music code game oth1 oth2 oth3 oth4
 
 bspc config border_width         2
 bspc config window_gap          12
